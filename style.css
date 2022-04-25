@@ -174,7 +174,7 @@ header ul{
 }
 
 .cast .cast-each{
-  width:140px;
+  width:160px;
   margin-top:30px ;
   
 }
@@ -245,7 +245,7 @@ header ul{
  margin: 0 auto;
 }
 
-.hulu p{
+.hulu h3{
   text-align: center;
   font-size: 20px;
   color: #40c03b;
@@ -258,14 +258,51 @@ header ul{
   margin-top:60px;
   justify-content: center;
 }
+
+
+
 .hulu .box p{
 background-color: #40c03b;
 color: #ffffff;
 padding:180px 10px;
 width:250px;
 margin:0px 30px;
-
+text-align: center;
+font-weight: bold;
+font-size: 16px;
 }
+
+.hulu p{
+  text-align: center;
+  color: #40c03b;
+  font-size: 10px;
+  margin: 60px 0px ;
+  font-weight: bold;
+}
+
+.hulu a {
+  background-color: #ff9431;
+  color: #ffffff;
+  padding:20px 80px;
+  width:200px;
+  margin:0px 30px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+  margin: 0 auto;
+  
+}
+
+footer p {
+  background-color: #1d1c1c;
+  color: #ffffff;
+  font-size: 6px;
+  padding:50px 0px;
+  text-align: center;
+}
+
+
 
 
    
