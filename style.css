@@ -129,11 +129,13 @@ header ul{
 .story p{
   font-family: 'Shippori Mincho', serif;
   font-size: 16px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
   letter-spacing: 0.2em;
   line-height: 2em;
   color: white;
   text-shadow: 1px 2px 3px #000000;
+  text-align: center;
 
 }
 
